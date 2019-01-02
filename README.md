@@ -1,5 +1,8 @@
 # FINAL TASK 
-![Buku TA](https://img.shields.io/amo/d/:addonId.svg)
+
+[![jurnal](https://img.shields.io/badge/Jurnal-Telkom-blue.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
+[![jurnal](https://img.shields.io/badge/Dataset-Hadits-brightgreen.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
+
 Jurnal          : [Link](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 Dataset Hadits  : [Link](https://drive.google.com/open?id=1hInke1UE0z1Ih2b_qnDNPWJBEl1_ovu8)
 Poster          : [Link](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
