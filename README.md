@@ -1,5 +1,5 @@
 # FINAL TASK 
-[![buku ta](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
+![Buku TA](https://img.shields.io/amo/d/:addonId.svg)
 Jurnal          : [Link](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 Dataset Hadits  : [Link](https://drive.google.com/open?id=1hInke1UE0z1Ih2b_qnDNPWJBEl1_ovu8)
 Poster          : [Link](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
