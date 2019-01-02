@@ -2,8 +2,8 @@
 [![jurnal](https://img.shields.io/badge/Jurnal-Telkom-blue.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 [![dataset](https://img.shields.io/badge/Dataset-Hadits-brightgreen.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 [![poster](https://img.shields.io/badge/Poster-Laporan-red.svg)](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
-[![Referensi](https://img.shields.io/badge/Poster-Laporan-red.svg)](https://drive.google.com/open?id=1Y24MeAKQ5wT0qudgOYlefGYZYWFhRu7l)
-[![Present](https://img.shields.io/badge/Poster-Laporan-red.svg)](https://drive.google.com/open?id=1LZrBeiBmLzfQWxLPDo8p2WkHRnysc2B5PY3D4HJgFXg)
+[![Referensi](https://img.shields.io/badge/Referensi-Laporan-yellow.svg)](https://drive.google.com/open?id=1Y24MeAKQ5wT0qudgOYlefGYZYWFhRu7l)
+[![Present](https://img.shields.io/badge/Materi-Presentasi-orange.svg)](https://drive.google.com/open?id=1LZrBeiBmLzfQWxLPDo8p2WkHRnysc2B5PY3D4HJgFXg)
 
 # Step Untuk Menjalankan Program
 
