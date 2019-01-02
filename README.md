@@ -1,5 +1,5 @@
 # FINAL TASK 
-[![jurnal](https://img.shields.io/badge/Jurnal-Telkom-blue.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU" target="_blank)
+[![jurnal](https://img.shields.io/badge/Jurnal-Telkom-blue.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU target="_blank)
 [![dataset](https://img.shields.io/badge/Dataset-Hadits-brightgreen.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 [![poster](https://img.shields.io/badge/Poster-Laporan-red.svg)](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
 
