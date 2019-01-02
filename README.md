@@ -1,4 +1,4 @@
-# [FINAL TASK](https://github.com/gugunm/multilabel-hadith) 
+# [FINAL TASK]
 [![jurnal](https://img.shields.io/badge/Jurnal-Telkom-blue.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 [![dataset](https://img.shields.io/badge/Dataset-Hadits-brightgreen.svg)](https://drive.google.com/open?id=1hInke1UE0z1Ih2b_qnDNPWJBEl1_ovu8)
 [![poster](https://img.shields.io/badge/Poster-Laporan-red.svg)](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
@@ -27,4 +27,4 @@
 Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
 * * *
 
-> # **__Semoga Bermanfaat__**. Hidup hanya sekali, kesempatan gak akan datang 2x!
+## **Semoga Bermanfaat**. Hidup hanya sekali, kesempatan gak akan datang 2x!
