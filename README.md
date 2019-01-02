@@ -28,6 +28,5 @@
 
 > **__Semoga Bermanfaat__**. Hidup hanya sekali, kesempatan gak akan datang 2x!
 
-##### Something Wrong?
-##### Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
+#### Something Wrong? Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
 * * *
