@@ -27,4 +27,4 @@
 Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
 * * *
 
-## **Semoga Bermanfaat**. Hidup hanya sekali, kesempatan gak akan datang 2x!
+## Semoga Bermanfaat. Hidup hanya sekali, terkadang kesempatan datang tak berkabar, lakukan sebelum kau menyesal!
