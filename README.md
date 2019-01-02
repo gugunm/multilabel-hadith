@@ -13,7 +13,6 @@
   - [Model Word2vec - CBOW](https://drive.google.com/open?id=194Nv9GY8MTcHTi18w7vu7gXXZ21vFeTY) -- lalu simpan di folder input/cbow
   - [Model Word2vec - SkipGram](https://drive.google.com/open?id=1dFED-1wuUrqXUIQH1pb4f1EfDqXaok26) -- lalu simpan di folder input/skipgram
   - [Model PosTag](https://drive.google.com/open?id=1SNDp4tLR3CYl5HX7hTbjlVs_j6fC1R9M) -- lalu simpan di folder input/tagger
-  - File **Word2vec.py** untuk membangun model Word2vec
 #### 3. Modules yang dibutuhkan pada project ini yaitu : 
 - [NLTK](https://pypi.org/project/nltk/) -> ('nltk.download('punkt')')
 - [GENSIM](https://pypi.org/project/gensim/) (Untuk Word2vec)
@@ -29,9 +28,3 @@ Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a108811
 ---
 
 ### *Semoga Bermanfaat. Hidup hanya sekali, terkadang kesempatan datang tak berkabar, lakukan sebelum kau menyesal!*
-
-
-The `numberOfPoints` variable holds the player's score.
-if player.wins {
-numberOfPoints += 1
-}
