@@ -26,9 +26,7 @@
 #### 4. Program menggunakan python versi 3.
 * * *
 
-> **__Semoga Bermanfaat__**
-
-> **MUDAH | ~~SULIT~~**
+> **__Semoga Bermanfaat__**. Hidup hanya sekali, kesempatan gak akan datang 2x!
 
 * * *
 Something Wrong?
