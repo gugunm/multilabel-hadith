@@ -1,4 +1,4 @@
-# [FINAL TASK]
+# FINAL TASK
 [![jurnal](https://img.shields.io/badge/Jurnal-Telkom-blue.svg)](https://drive.google.com/open?id=12hS-1cEbCyjySE-0thvzRURnag44uBVU)
 [![dataset](https://img.shields.io/badge/Dataset-Hadits-brightgreen.svg)](https://drive.google.com/open?id=1hInke1UE0z1Ih2b_qnDNPWJBEl1_ovu8)
 [![poster](https://img.shields.io/badge/Poster-Laporan-red.svg)](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
@@ -25,6 +25,13 @@
 - [CRF-TAGGER](https://pypi.org/project/python-crfsuite/) (Untuk Posttager)
 #### 4. Program menggunakan python versi 3.
 Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
-* * *
+
+---
 
 ### *Semoga Bermanfaat. Hidup hanya sekali, terkadang kesempatan datang tak berkabar, lakukan sebelum kau menyesal!*
+
+
+The `numberOfPoints` variable holds the player's score.
+if player.wins {
+numberOfPoints += 1
+}
