@@ -16,14 +16,13 @@ Download model Word2vec dan model PoSTag pada link berikut.
 #### 3. Modules yang dibutuhkan pada project ini yaitu : 
 - [NLTK](https://pypi.org/project/nltk/) -> ('nltk.download('punkt')')
 - [GENSIM](https://pypi.org/project/gensim/) (Untuk Word2vec)
-- [FASTTEXT](https://fasttext.cc/) (Untuk Fasttext)
 - [NUMPY](https://pypi.org/project/numpy/) (Library matematika)
 - [PANDAS](https://pypi.org/project/pandas/) (Manipulasi data csv)
 - [SCIKIT-LEARN](https://pypi.org/project/scikit-learn/) (Klasifikasi menggunakan SVM)
 - [SASTRAWI](https://pypi.org/project/Sastrawi/) (Remove Stopword dan Stemmer dalam Bahasa Indonesia)
 - [CRF-TAGGER](https://pypi.org/project/python-crfsuite/) (Untuk Posttager)
 #### 4. Program menggunakan python versi 3.
-Contact me: [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
+Contact : [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
 
 ---
 
