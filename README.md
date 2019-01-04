@@ -10,9 +10,9 @@
 #### 1. Program utama untuk running file yaitu **_Main.py**
 #### 2. Sebelum running file **_Main.py** :
 Download model Word2vec dan model PoSTag pada link berikut.
-  - [Model Word2vec - CBOW](https://drive.google.com/open?id=194Nv9GY8MTcHTi18w7vu7gXXZ21vFeTY) -- lalu simpan di folder input/cbow
-  - [Model Word2vec - SkipGram](https://drive.google.com/open?id=1dFED-1wuUrqXUIQH1pb4f1EfDqXaok26) -- lalu simpan di folder input/skipgram
-  - [Model PosTag](https://drive.google.com/open?id=1SNDp4tLR3CYl5HX7hTbjlVs_j6fC1R9M) -- lalu simpan di folder input/tagger
+  - [Model Word2vec - CBOW](https://drive.google.com/drive/folders/194Nv9GY8MTcHTi18w7vu7gXXZ21vFeTY?usp=sharing) -- lalu simpan di folder input/cbow
+  - [Model Word2vec - SkipGram](https://drive.google.com/drive/folders/1dFED-1wuUrqXUIQH1pb4f1EfDqXaok26?usp=sharing) -- lalu simpan di folder input/skipgram
+  - [Model PosTag](https://drive.google.com/drive/folders/1SNDp4tLR3CYl5HX7hTbjlVs_j6fC1R9M?usp=sharing) -- lalu simpan di folder input/tagger
 #### 3. Modules yang dibutuhkan pada project ini yaitu : 
 - [NLTK](https://pypi.org/project/nltk/) -> ('nltk.download('punkt')')
 - [GENSIM](https://pypi.org/project/gensim/) (Untuk Word2vec)
