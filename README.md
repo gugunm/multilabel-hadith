@@ -2,7 +2,7 @@
 [![jurnal](https://img.shields.io/badge/Paper-Icadeis-blue.svg)](https://drive.google.com/file/d/1t1canMFahkdxkL_adbjaOGJU62N4-yW5/view?usp=sharing)
 [![jurnal](https://img.shields.io/badge/Jurnal-Telkom-red.svg)](https://drive.google.com/file/d/12hS-1cEbCyjySE-0thvzRURnag44uBVU/view?usp=sharing)
 [![dataset](https://img.shields.io/badge/Dataset-Hadits-brightgreen.svg)](https://drive.google.com/open?id=1hInke1UE0z1Ih2b_qnDNPWJBEl1_ovu8)
-[![poster](https://img.shields.io/badge/Poster-Laporan-magenta.svg)](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
+[![poster](https://img.shields.io/badge/Poster-Laporan-aqua.svg)](https://drive.google.com/open?id=1HTmI08MmC2037v297vLdIJDJz43jij36)
 [![Referensi](https://img.shields.io/badge/Referensi-Laporan-yellow.svg)](https://drive.google.com/open?id=1Y24MeAKQ5wT0qudgOYlefGYZYWFhRu7l)
 [![Present](https://img.shields.io/badge/Materi-Presentasi-orange.svg)](https://drive.google.com/open?id=1LZrBeiBmLzfQWxLPDo8p2WkHRnysc2B5PY3D4HJgFXg)
 
