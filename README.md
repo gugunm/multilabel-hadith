@@ -23,7 +23,7 @@ Download model Word2vec dan model PoSTag pada link berikut.
 - [SASTRAWI](https://pypi.org/project/Sastrawi/) (Remove Stopword dan Stemmer dalam Bahasa Indonesia)
 - [CRF-TAGGER](https://pypi.org/project/python-crfsuite/) (Untuk Posttager)
 #### 4. Program menggunakan python versi 3.
-Contact : [Gugun Mediamer](https://www.linkedin.com/in/gugun-mediamer-7a1088117)
+Contact : [Gugun Mediamer](https://www.linkedin.com/in/gugunmdr)
 
 ---
 
